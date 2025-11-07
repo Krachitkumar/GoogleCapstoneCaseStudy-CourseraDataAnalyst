@@ -11,7 +11,7 @@ SQL Queries:
 [03. Data Cleaning](https://github.com/Krachitkumar/GoogleCapstoneCaseStudy-CourseraDataAnalyst/blob/main/03.%20Data%20Cleaning.sql)  
 [04. Data Analysis](https://github.com/Krachitkumar/GoogleCapstoneCaseStudy-CourseraDataAnalyst/blob/main/04.%20Data%20Analysis.sql)  
   
-Data Visualizations: [Tableau](https://public.tableau.com/app/profile/somia.nasir/viz/bike-tripdata-casestudy/Dashboard1#1)  
+Data Visualizations: [Tableau](https://public.tableau.com/views/BikeCaseStudy_17624747459910/BikeTypes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 ## Background
 ### Cyclistic
 A bike-share program that features more than 5,800 bicycles and 600 docking stations. Cyclistic sets itself apart by also offering reclining bikes, hand tricycles, and cargo bikes, making bike-share more inclusive to people with disabilities and riders who can’t use a standard two-wheeled bike. The majority of riders opt for traditional bikes; about 8% of riders use the assistive options. Cyclistic users are more likely to ride for leisure, but about 30% use them to commute to work each day.   
@@ -94,7 +94,7 @@ SQL Query: [Data Cleaning](https://github.com/Krachitkumar/GoogleCapstoneCaseStu
   
 ## Analyze and Share
 SQL Query: [Data Analysis](https://github.com/Krachitkumar/GoogleCapstoneCaseStudy-CourseraDataAnalyst/blob/main/04.%20Data%20Analysis.sql)  
-Data Visualization: [Tableau](https://public.tableau.com/app/profile/somia.nasir/viz/bike-tripdata-casestudy/Dashboard1#1)  
+Data Visualization: [Tableau](https://public.tableau.com/views/BikeCaseStudy_17624747459910/BikeTypes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 The data is stored appropriately and is now prepared for analysis. I queried multiple relevant tables for the analysis and visualized them in Tableau.  
 The analysis question is: How do annual members and casual riders use Cyclistic bikes differently?  
 
